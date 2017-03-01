@@ -1,4 +1,5 @@
 # twitterGeoLocationTrends
+Spring 2017 - Data Intensive Computing - Project 1
 Summarizing trending topics on Twitter about a location (place).
 Written using R in jupyter notebook.
 
